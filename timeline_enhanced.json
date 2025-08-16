@@ -1,0 +1,1525 @@
+[
+  {
+    "date": "1971-06-13",
+    "title": "Pentagon Papers Leak",
+    "description": "Ellsberg leaks classified Vietnam War documents, exposing deep government deception.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "enhanced_description": "Daniel Ellsberg discloses the Pentagon Papers to the press, revealing years of official deception on the Vietnam War and setting a modern precedent for national-security whistleblowing.",
+    "link": "https://en.wikipedia.org/wiki/Pentagon_Papers",
+    "image": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/163E3/production/_129370119_leakeddoc2.png.webp"
+  },
+  {
+    "date": "1972",
+    "title": "‘Computer Matching’ Concerns Rise",
+    "description": "Early debate over automated database matching and citizen surveillance in the US.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "Policy makers and civil libertarians warn that cross-linking government databases could enable mass profiling and errors at scale, foreshadowing later data-mining regimes.",
+    "link": "https://www.cs.cornell.edu/~shmat/courses/cs5436/shattuck-kusserow.pdf",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-qXf_3lZzGQm9Zk0GncIa-fcdkNKQEKbkaA&s"
+  },
+  {
+    "date": "1974-12",
+    "title": "TCP/IP Development Begins",
+    "description": "Packet networking foundations that later enable global free software distribution and cypherpunk collaboration.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Vint Cerf and Bob Kahn begin specifying TCP/IP, enabling interoperable packet networks that become today’s Internet—the substrate cypherpunks use to publish code and route around censorship.",
+    "link": "https://www.rfc-editor.org/rfc/rfc675",
+    "image": "https://uploads.sitepoint.com/wp-content/uploads/2025/01/1736916742The-Evolution-of-TCPIP-Protocol-1024x404.png"
+  },
+  {
+    "date": "1975-10",
+    "title": "Project SHAMROCK Exposed",
+    "description": "NSA’s decades-long bulk collection of international telegrams revealed.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "Congressional inquiries reveal NSA’s long-running collection of international telegram traffic, one of the earliest documented bulk signals-intelligence programs.",
+    "link": "https://en.wikipedia.org/wiki/Project_SHAMROCK",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2013/06/shamrock-report.jpg"
+  },
+  {
+    "date": "1976-11",
+    "title": "Public-Key Cryptography Published",
+    "description": "Diffie & Hellman introduce public-key cryptography, enabling private communication at scale.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Whitfield Diffie and Martin Hellman publish the first public description of public-key cryptography, making secure communication practical without pre-shared secrets.",
+    "link": "https://en.wikipedia.org/wiki/Public-key_cryptography",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Public-key-crypto-1.svg/1200px-Public-key-crypto-1.svg.png"
+  },
+  {
+    "date": "1978-02",
+    "title": "RSA Invented",
+    "description": "Rivest, Shamir, and Adleman create RSA, a practical asymmetric crypto scheme.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Ron Rivest, Adi Shamir, and Leonard Adleman introduce RSA, the first widely practical public-key encryption and signature system, foundational for secure software distribution and E2E messaging.",
+    "link": "https://people.csail.mit.edu/rivest/Rsapaper.pdf",
+    "image": "https://www.invent.org/sites/default/files/styles/inductee_media/public/inductees/556-master_0.jpg?h\\u003d823bffaa"
+  },
+  {
+    "date": "1978-10-25",
+    "title": "US Foreign Intelligence Surveillance Act (FISA)",
+    "description": "Establishes FISC court; secrecy around orders later criticized by civil libertarians.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "FISA creates a secret court (FISC) to approve national-security surveillance; later criticized for opaque proceedings and extremely high approval rates.",
+    "link": "https://www.congress.gov/bill/95th-congress/senate-bill/1566",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Foreign_Intelligence_Surveillance_Court_Seal.png"
+  },
+  {
+    "date": "1981-02",
+    "title": "Chaum: Untraceable Electronic Mail",
+    "description": "David Chaum proposes mix networks for anonymous communication.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "David Chaum’s paper outlines mix networks—routing messages through layers of re-encryption to defeat traffic analysis, an idea later realized in Tor and remailers.",
+    "link": "https://www.freehaven.net/anonbib/cache/chaum-mix.pdf",
+    "image": "https://pictures.abebooks.com/inventory/30912263188_2.jpg"
+  },
+  {
+    "date": "1983",
+    "title": "Blind Signatures",
+    "description": "Chaum introduces blind signatures, core to anonymous digital cash designs.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Chaum introduces blind signatures, letting a signer authenticate a message without learning its contents—crucial for privacy-preserving e-cash and credentials.",
+    "link": "https://sceweb.sce.uhcl.edu/yang/teaching/csci5234WebSecurityFall2011/Chaum-blind-signatures.PDF",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/BlindSignature.jpg"
+  },
+  {
+    "date": "1984",
+    "title": "‘Big Brother’ in Databases",
+    "description": "Public unease about computerized state/corporate dossiers accelerates privacy activism.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "enhanced_description": "As networked databases proliferate, scholars and advocates warn of dossier society risks—centralized records enabling surveillance, discrimination, and mission creep.",
+    "link": "https://www.eff.org/deeplinks/2020/07/digital-surveillance-dystopia-1984",
+    "image": "https://cdn.mos.cms.futurecdn.net/29acd2fbc833eb25d2091bff988c48b0.jpg"
+  },
+  {
+    "date": "1986-10-16",
+    "title": "Computer Fraud and Abuse Act (CFAA)",
+    "description": "Broad US anti-hacking law later used in controversial prosecutions.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "The CFAA criminalizes unauthorized access to computers; later criticized for vague language that chills security research and enables overbroad prosecutions.",
+    "link": "https://www.congress.gov/bill/99th-congress/house-bill/4718",
+    "image": "https://img2.helpnetsecurity.com/posts2020/cfaa.jpg"
+  },
+  {
+    "date": "1988",
+    "title": "Crypto-Anarchy Term Circulates",
+    "description": "Timothy C. May and early cypherpunks begin circulating the concept of 'crypto-anarchy' — a vision of a society where cryptography enables anonymous interactions, voluntary governance, and resistance to state surveillance.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "link": "https://nakamotoinstitute.org/crypto-anarchist-manifesto/",
+    "image": "https://miro.medium.com/v2/resize:fit:1024/1*NMwjdshkMUXsSOuAuiFSrw.png"
+  },
+  {
+    "date": "1988-09",
+    "title": "Crypto Anarchist Manifesto",
+    "description": "Timothy C. May outlines crypto-anarchism—strong crypto undermines centralized control.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Timothy C. May predicts that ubiquitous strong crypto will erode the power of states to control information, commerce, and association.",
+    "link": "https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html",
+    "image": "https://ih1.redbubble.net/image.2768724049.2963/flat,750x,075,f-pad,750x1000,f8f8f8.u2.webp"
+  },
+  {
+    "date": "1990-05-08",
+    "title": "Operation Sun Devil",
+    "description": "US Secret Service raids BBS/sysops—galvanizes digital rights activism (EFF founded).",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "enhanced_description": "Nationwide raids on bulletin board systems and hobbyists provoke backlash over heavy-handed digital enforcement and catalyze the creation of EFF.",
+    "link": "https://en.wikipedia.org/wiki/Operation_Sundevil",
+    "image": "https://i.ytimg.com/vi/Mookr_VrhyU/mqdefault.jpg"
+  },
+  {
+    "date": "1990-07-10",
+    "title": "Electronic Frontier Foundation Founded",
+    "description": "EFF forms to defend civil liberties in the digital world.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Barlow, Kapor, and Gilmore found EFF to litigate and advocate for privacy, free speech, and security online.",
+    "link": "https://www.eff.org/about/history",
+    "image": "https://www.eff.org/files/2018/07/10/eff-logo-stack-rgb.png"
+  },
+  {
+    "date": "1991",
+    "title": "US Crypto Classified as Munitions",
+    "description": "Export of strong encryption restricted, fueling the first ‘Crypto Wars’.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "US regulations treat strong cryptography as munitions; export limits spur legal battles and creative protests like publishing crypto as books.",
+    "link": "https://en.wikipedia.org/wiki/Export_of_cryptography_from_the_United_States",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Munitions_T-shirt_%28front%29.jpg/250px-Munitions_T-shirt_%28front%29.jpg"
+  },
+  {
+    "date": "1991",
+    "title": "Philips Crypto Export Case (EU)",
+    "description": "European electronics firms, including Philips, encounter export restrictions on strong cryptographic components, reflecting Cold War-era controls that hampered global privacy tech development.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "link": "https://en.wikipedia.org/wiki/Export_of_cryptography#International_regulations",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROArVLd3TIeooxW1icVN-c6PzeQ4V5bMcuRw&s"
+  },
+  {
+    "date": "1991-06-05",
+    "title": "PGP 1.0 Released",
+    "description": "Zimmermann releases strong crypto to the public; export case follows.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Phil Zimmermann releases PGP, bringing strong, freely redistributable encryption to the masses and challenging US export controls.",
+    "link": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
+    "image": "https://cdn.soft112.com/portable-pgp/00/00/00/F0/000000F0VU/pad_screenshot.jpg"
+  },
+  {
+    "date": "1992",
+    "title": "Remailers Begin (Cypherpunk/Mixmaster)",
+    "description": "Anonymous remailer projects kick off practical private email routing.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Early anonymous remailers implement layered forwarding and batching, separating identities from messages and seeding an ecosystem of privacy tools.",
+    "link": "https://www.freehaven.net/anonbib/cache/chaum-mix.pdf",
+    "image": "https://ritter.vg/resources/cryptodotis/post2/mixmaster.png"
+  },
+  {
+    "date": "1992-09",
+    "title": "Cypherpunks Mailing List",
+    "description": "Hughes, May, Gilmore launch the list; ‘cypherpunks write code’.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "A freewheeling mailing list becomes the nexus for building and debating privacy tech—PGP, remailers, digital cash, and more.",
+    "link": "https://en.wikipedia.org/wiki/Cypherpunk",
+    "image": "https://cdn.myshoptet.com/usr/www.cypherpunknow.com/user/shop/big/721-23_24-packaging.jpg?67f6fad7"
+  },
+  {
+    "date": "1993",
+    "title": "RSA in Perl (‘RSA in 5 lines’ meme)",
+    "description": "Programmers demonstrate RSA encryption in just a few lines of Perl, reinforcing the argument that cryptographic code is a form of protected speech, not a controlled weapon.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "link": "https://en.wikipedia.org/wiki/Export_of_cryptography_from_the_United_States#The_RSA_in_3_lines_of_Perl",
+    "image": "https://i.ebayimg.com/00/s/MTQ4OVgxNDY2/z/xzEAAOSwbLNnwRpo/$_57.JPG?set_id\\u003d880000500F"
+  },
+  {
+    "date": "1993-02",
+    "title": "Zimmermann Investigated (PGP Export)",
+    "description": "Phil Zimmermann faces a US criminal investigation for allegedly violating munitions export laws by making Pretty Good Privacy (PGP) available abroad. The case becomes a landmark in the fight for strong civilian encryption.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "link": "https://en.wikipedia.org/wiki/Pretty_Good_Privacy#Criminal_investigation",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/PRZ_closeup_cropped.jpg"
+  },
+  {
+    "date": "1993-03-09",
+    "title": "A Cypherpunk’s Manifesto",
+    "description": "Eric Hughes publishes a concise statement of cypherpunk values.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Hughes declares privacy a fundamental right and urges: ‘cypherpunks write code’—build tools rather than wait for permission.",
+    "link": "https://www.activism.net/cypherpunk/manifesto.html",
+    "image": "https://files.libcom.org/files/styles/small_wide/public/2024-04/CyperPunk-Menifesto_0.jpg?itok\\u003dm3xjnuxh"
+  },
+  {
+    "date": "1993-04-16",
+    "title": "Clipper Chip Proposal",
+    "description": "US proposes escrowed keys in consumer devices; defeated after backlash.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "The US proposes a government-backdoored encryption chip (key escrow). Technologists and civil libertarians defeat it, a key Crypto Wars victory.",
+    "link": "https://www.eff.org/deeplinks/2015/04/remembering-clipper-chip",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHijMdwwAuXjuTYcrjmToDmcRzpAhUO_SmHg&s"
+  },
+  {
+    "date": "1994",
+    "title": "Anonymous Digital Cash Trials (Banks)",
+    "description": "David Chaum’s DigiCash and similar projects pilot anonymous e-cash systems with banks, but fail commercially due to adoption barriers — laying groundwork for later cryptocurrencies.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "link": "https://en.wikipedia.org/wiki/DigiCash",
+    "image": "https://www.ledgerinsights.com/wp-content/uploads/2023/11/CBDC-swiss-franc.2-810x524.jpg"
+  },
+  {
+    "date": "1994-09",
+    "title": "The Cyphernomicon (drafts)",
+    "description": "Tim May’s sprawling FAQ of cypherpunk ideas, history, and tactics.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Timothy C. May compiles a detailed FAQ covering crypto-anarchy, remailers, digital cash, and strategies for building uncensorable systems.",
+    "link": "https://cdn.nakamotoinstitute.org/docs/cyphernomicon.txt",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2024/11/Cypherpunk.png"
+  },
+  {
+    "date": "1994-10-25",
+    "title": "CALEA (Digital Telephony)",
+    "description": "US law compels telcos to build wiretap-friendly networks.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "CALEA requires telecom providers to design networks to be wiretap-ready, embedding lawful intercept capabilities into infrastructure.",
+    "link": "https://www.fcc.gov/public-safety-and-homeland-security/policy-and-licensing-division/general/communications-assistance",
+    "image": "https://blog.zcorum.com/hs-fs/hubfs/calea-fbi-request-image.jpg?width\\u003d360\\u0026name\\u003dcalea-fbi-request-image.jpg"
+  },
+  {
+    "date": "1995",
+    "title": "PGPfone / S/MIME",
+    "description": "Early attempts at encrypted voice and standard secure email.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Projects like PGPfone and S/MIME push encrypted voice and standardized secure email, extending E2E protections beyond files.",
+    "link": "https://en.wikipedia.org/wiki/PGPfone",
+    "image": "https://www.shutterstock.com/image-photo/surprised-mime-looking-phone-isolated-260nw-671582188.jpg"
+  },
+  {
+    "date": "1995",
+    "title": "Wassenaar Arrangement Includes Crypto",
+    "description": "Multilateral controls treat strong crypto as dual-use tech.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "International export controls classify cryptography as dual-use, complicating distribution of strong crypto tools across borders.",
+    "link": "https://www.cyber-rights.org/crypto/wassenaar.htm",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Wassenaar_Arrangement_members_map.svg/1200px-Wassenaar_Arrangement_members_map.svg.png"
+  },
+  {
+    "date": "1995",
+    "title": "Global Pagers/SS7 Weaknesses Known",
+    "description": "Researchers expose security flaws in global pager systems and the SS7 telecom protocol, foreshadowing future mass surveillance and signaling exploits.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "link": "https://en.wikipedia.org/wiki/Signalling_System_No._7#Security_vulnerabilities",
+    "image": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs11235-023-01018-0/MediaObjects/11235_2023_1018_Fig1_HTML.png"
+  },
+  {
+    "date": "1995-06",
+    "title": "Pretty Good Privacy Book-as-Code Tactic",
+    "description": "Activists publish PGP’s complete source code in book form to exploit US First Amendment protections, sidestepping export controls that classified cryptography as a munition.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "link": "https://en.wikipedia.org/wiki/Pretty_Good_Privacy",
+    "image": "https://m.media-amazon.com/images/I/71CIXwuuzhL.jpg"
+  },
+  {
+    "date": "1995-10",
+    "title": "DigiCash/eCash Pilots",
+    "description": "Chaum’s company runs early anonymous digital cash experiments.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "DigiCash pilots bank-issued e-cash using blind signatures—proving privacy-preserving payments are possible but struggling commercially.",
+    "link": "https://chaum.com/ecash/",
+    "image": "https://chaum.com/wp-content/uploads/2022/02/crew-1.1.jpg"
+  },
+  {
+    "date": "1996",
+    "title": "US Eases Crypto Export Controls",
+    "description": "Key victory of Crypto Wars; stronger crypto goes mainstream.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "enhanced_description": "The US relaxes export limits on strong cryptography, paving the way for widespread HTTPS and consumer privacy software.",
+    "link": "https://en.wikipedia.org/wiki/Export_of_cryptography_from_the_United_States#Relaxation_in_the_late_1990s",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Munitions_T-shirt_%28front%29.jpg"
+  },
+  {
+    "date": "1996",
+    "title": "Cypherpunks to the W3C/Standards",
+    "description": "Push to embed privacy and security into the Web’s plumbing.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Privacy advocates and cryptographers press standards bodies to bake security and minimal data exposure into core web protocols.",
+    "link": "https://www.w3.org/standards/",
+    "image": "https://s3.eu-central-1.amazonaws.com/corbado-cloud-staging-website-assets/glossary_w3c_5d93f125de.png"
+  },
+  {
+    "date": "1997",
+    "title": "Mixmaster Remailer v2",
+    "description": "Version 2 of Mixmaster remailer software introduces fixed-size message packets, encryption layers, and batching to resist traffic analysis in anonymous email.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "link": "https://en.wikipedia.org/wiki/Mixmaster_anonymous_remailer",
+    "image": "https://ritter.vg/resources/cryptodotis/post2/mixmaster.png"
+  },
+  {
+    "date": "1997-03",
+    "title": "Hashcash",
+    "description": "Adam Back’s proof-of-work for anti-spam influences Bitcoin.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Hashcash proposes attaching computational cost to email to deter spam—introducing practical PoW later adapted to secure Bitcoin.",
+    "link": "http://hashcash.org/papers/hashcash.pdf",
+    "image": "https://academy.bit2me.com/wp-content/uploads/2018/08/27_Hashcash.webp"
+  },
+  {
+    "date": "1998-01",
+    "title": "Onion Routing Papers",
+    "description": "US Naval Research Laboratory and DARPA publish the first onion routing papers, pioneering layered encryption for anonymous communication — later implemented in Tor.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "link": "https://www.onion-router.net/Publications.html",
+    "image": "https://itp.nyu.edu/networks/wp-content/uploads/2020/02/onion-encryption-0.png"
+  },
+  {
+    "date": "1998",
+    "title": "IPSec/IKE Standardization",
+    "description": "The IETF finalizes Internet Protocol Security (IPSec) and Internet Key Exchange (IKE), enabling secure VPN tunnels and standardized encrypted networking.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "link": "https://en.wikipedia.org/wiki/IPsec",
+    "image": "https://www.paloaltonetworks.com/content/dam/pan/en_US/images/cyberpedia/what-is-ike/ike-ipsec-architecture.png?imwidth\\u003d480"
+  },
+  {
+    "date": "1998-10-28",
+    "title": "DMCA Enacted (US)",
+    "description": "Anti-circumvention rules chill security research and free sharing.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "DMCA Section 1201 bans circumvention of access controls, often weaponized to suppress vulnerability research and interoperability.",
+    "link": "https://www.congress.gov/bill/105th-congress/house-bill/2281",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/1200px-Great_Seal_of_the_United_States_%28obverse%29.svg.png"
+  },
+  {
+    "date": "1998-11-03",
+    "title": "b-money",
+    "description": "Wei Dai proposes anonymous, distributed electronic cash.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Wei Dai’s b-money design outlines PoW issuance and decentralized consensus—blueprints echoed in Bitcoin’s architecture.",
+    "link": "http://www.weidai.com/bmoney.txt",
+    "image": "https://bitcoinnews.ch/wp-content/uploads/2023/04/pr-1140x641-1.jpg"
+  },
+  {
+    "date": "1999",
+    "title": "UK Export Controls on Crypto Relaxed",
+    "description": "The UK eases export controls on strong encryption, aligning with US policy changes and normalizing its use in consumer software.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "link": "https://en.wikipedia.org/wiki/Export_of_cryptography#United_Kingdom",
+    "image": "https://cdn.prod.website-files.com/660edde824faa3a65d198be6/66e9dcfa8eea4f1057adc542_UK%20Export%20Control%20-%20Thumbnail-min.png"
+  },
+  {
+    "date": "1999-10",
+    "title": "DeCSS Published",
+    "description": "CSS DVD decryption code posted; takedowns spark 'code as speech' debate.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "enhanced_description": "Publication of DeCSS to circumvent DVD encryption triggers lawsuits and a defining fight over whether code is protected speech.",
+    "link": "https://en.wikipedia.org/wiki/DeCSS",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/DeCSS.svg/1200px-DeCSS.svg.png"
+  },
+  {
+    "date": "2000",
+    "title": "UK RIPA",
+    "description": "Compels decryption key disclosure; criticized for self-incrimination concerns.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "The UK’s RIPA introduces compelled key disclosure—criminalizing refusal to decrypt and raising due-process concerns.",
+    "link": "https://www.legislation.gov.uk/ukpga/2000/23/contents",
+    "image": "https://static1.squarespace.com/static/60096d6b21350175922f9148/t/61d6ed6a6e503578589de77e/1641475434554/timeline.png"
+  },
+  {
+    "date": "2000",
+    "title": "Napster vs. Labels",
+    "description": "The landmark legal battle between Napster and the recording industry results in the shutdown of the centralized P2P music service, spurring interest in decentralized file sharing.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "link": "https://en.wikipedia.org/wiki/Napster",
+    "image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2017/12/iStock-108273135-1024x679.jpg"
+  },
+  {
+    "date": "2000-03",
+    "title": "Freenet Announced",
+    "description": "P2P censorship-resistant publishing network (Ian Clarke).",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Freenet introduces distributed, anonymous storage and retrieval to resist censorship—precursor to many decentralized content systems.",
+    "link": "https://freenetproject.org/assets/papers/freenet-0.7.5-paper.pdf",
+    "image": "https://sportfive.com/assets/04_press_media/2024/freenet-ihf/sportfive-press-freenet-ihf-logo.jpg"
+  },
+  {
+    "date": "2001",
+    "title": "Stellarwind (Warrantless Wiretapping)",
+    "description": "A secret post-9/11 NSA program conducts warrantless wiretapping of Americans’ communications, bypassing statutory limits until exposed in 2005.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "link": "https://en.wikipedia.org/wiki/Stellar_Wind",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nsa-ig-draft-report.pdf/page1-1200px-Nsa-ig-draft-report.pdf.jpg"
+  },
+  {
+    "date": "2001-10-26",
+    "title": "USA PATRIOT Act",
+    "description": "Sweeping surveillance powers and financial AML expansion post-9/11.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "PATRIOT Act expands surveillance authorities and financial reporting, lowering thresholds and broadening secret processes.",
+    "link": "https://www.congress.gov/bill/107th-congress/house-bill/3162",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/President_George_W._Bush_Signs_Patriot_Act.jpg"
+  },
+  {
+    "date": "2002-08",
+    "title": "PGP Corporation Re-formed",
+    "description": "Commercial stewardship of PGP tech; E2EE keeps maturing.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "PGP’s development continues under a new company, hardening E2E crypto for enterprises and consumers.",
+    "link": "https://en.wikipedia.org/wiki/Pretty_Good_Privacy#Commercial_PGP",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/PGP-Corporation-logo.svg/250px-PGP-Corporation-logo.svg.png"
+  },
+  {
+    "date": "2002-09-20",
+    "title": "Tor Code Released by NRL",
+    "description": "Onion routing research transitions toward public anonymity network.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "The onion-routing research program spins out as Tor, aiming for practical, widely available anonymity for ordinary users.",
+    "link": "https://www.torproject.org/about/history/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/1200px-Tor-logo-2011-flat.svg.png"
+  },
+  {
+    "date": "2003",
+    "title": "I2P Project",
+    "description": "Anonymity network focused on internal services (‘eepsites’).",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "I2P launches a privacy network optimized for internal, pseudonymous services and messaging with garlic routing.",
+    "link": "https://geti2p.net/en/docs/how/intro",
+    "image": "https://geti2p.net/_static/styles/duck/images/i2plogo.png"
+  },
+  {
+    "date": "2003",
+    "title": "Total Information Awareness (TIA)",
+    "description": "US program for mass data mining—defunded after backlash, concepts persist.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "DARPA’s TIA envisions sweeping data aggregation and pattern analysis on citizens; defunded after public outcry, but many ideas reappear elsewhere.",
+    "link": "https://www.gao.gov/products/gao-04-548",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/IAO-logo.png/640px-IAO-logo.png"
+  },
+  {
+    "date": "2003",
+    "title": "CAPPS II / Secure Flight Debates",
+    "description": "The US Transportation Security Administration proposes CAPPS II and later Secure Flight, expanding passenger profiling through centralized databases — sparking privacy concerns.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "link": "https://en.wikipedia.org/wiki/Computer_Assisted_Passenger_Prescreening_System",
+    "image": "https://www.eff.org/files/styles/teaser/public/pdfpreview/3b81846f8774c301f7427c8dc5fa603b.jpg?itok\\u003dunmP7J3t"
+  },
+  {
+    "date": "2003-02",
+    "title": "Mixminion Spec",
+    "description": "A new-generation remailer protocol for stronger anonymity.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Mixminion formalizes message formats and reply blocks to strengthen remailer anonymity against sophisticated traffic analysis.",
+    "link": "https://mixminion.net/minion-spec.txt",
+    "image": "https://image1.slideserve.com/3557007/mixminion-design-of-a-type-iii-anonymous-remailer-protocol-l.jpg"
+  },
+  {
+    "date": "2004",
+    "title": "RPOW",
+    "description": "Hal Finney’s Reusable Proofs of Work—proto-ideas for Bitcoin economics.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Hal Finney implements server-verified tokens minted by PoW, exploring transferability and double-spend resistance pre-Bitcoin.",
+    "link": "https://en.wikipedia.org/wiki/Proof_of_work",
+    "image": "https://rpow.es/wp-content/uploads/2023/10/logotipo-rpow-color.png"
+  },
+  {
+    "date": "2004",
+    "title": "Gmail Launch & Scanning Debate",
+    "description": "Google launches Gmail with automated email scanning for targeted ads, igniting debates on the privacy trade-offs of free cloud services.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "link": "https://en.wikipedia.org/wiki/Gmail#Privacy_issues",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/672917de30558ca355afff3b/0x0.jpg?format\\u003djpg\\u0026crop\\u003d977,550,x223,y516,safe\\u0026height\\u003d900\\u0026width\\u003d1600\\u0026fit\\u003dbounds"
+  },
+  {
+    "date": "2004-10",
+    "title": "OTR Messaging",
+    "description": "Off-the-Record secure messaging protocol (deniability, forward secrecy).",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "OTR brings deniable authentication and forward secrecy to chat, raising the privacy bar for IM clients.",
+    "link": "https://otr.cypherpunks.ca/Protocol-v3-4.0.0.html",
+    "image": "https://www.outputmessenger.com/wp-content/themes/outputmessenger/images/clips/oum_otr_send.png"
+  },
+  {
+    "date": "2005",
+    "title": "XMPP + OTR Gains",
+    "description": "Open messaging protocol XMPP, combined with Off-the-Record (OTR) encryption, becomes the privacy-focused default for secure chat among activists and tech users.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "link": "https://en.wikipedia.org/wiki/Off-the-Record_Messaging",
+    "image": "https://xmpp.is/wp-content/uploads/2018/03/omemo_feature_comparison.png"
+  },
+  {
+    "date": "2005-12",
+    "title": "Tor Public Launch",
+    "description": "Tor ships broadly—censorship evasion and privacy for all.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Tor’s public releases and relay ecosystem create a global anonymity network used by activists, journalists, and ordinary users.",
+    "link": "https://en.wikipedia.org/wiki/Tor_(network)",
+    "image": "https://www.techspot.com/images2/news/bigimage/2014/02/2014-02-28_10-58-09.jpg"
+  },
+  {
+    "date": "2006-05-11",
+    "title": "AT&T Room 641A Revealed",
+    "description": "NSA taps fiber backbone via secret SF facility (whistleblower Mark Klein).",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "enhanced_description": "Whistleblower Mark Klein exposes a secret AT&T facility where traffic is split to NSA equipment, confirming upstream backbone tapping.",
+    "link": "https://www.eff.org/cases/att",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Room_641A_exterior.jpg"
+  },
+  {
+    "date": "2006-06-23",
+    "title": "SWIFT/TFTP Surveillance Exposed",
+    "description": "US gains access to international bank transfer data for ‘terrorism finance’.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "The US Treasury gains access to SWIFT data via the Terrorist Finance Tracking Program, expanding cross-border financial surveillance.",
+    "link": "https://en.wikipedia.org/wiki/Terrorist_Finance_Tracking_Program",
+    "image": "https://www.pynetlabs.com/wp-content/uploads/2023/12/TFTP-Working.jpeg"
+  },
+  {
+    "date": "2007",
+    "title": "Full-Disk Encryption Trend",
+    "description": "Laptop thefts drive widespread adoption of strong default disk encryption.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Major OSes and enterprises adopt whole-disk encryption by default, reducing mass data-breach risk.",
+    "link": "https://en.wikipedia.org/wiki/Disk_encryption",
+    "image": "https://docs.trendmicro.com/all/ent/endenc/v5.0/en-us/webhelp/images/fde_preboot.png"
+  },
+  {
+    "date": "2007-03",
+    "title": "National Security Letters Criticized",
+    "description": "Criticism mounts over the FBI’s use of National Security Letters — secret demands for user data often accompanied by gag orders — with librarians and ISPs challenging their constitutionality.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "link": "https://en.wikipedia.org/wiki/National_security_letter",
+    "image": "https://media.freedom.press/media/images/pngbase64a1b76d9ddabd4c1_ffFR1Xf.width-1920.png"
+  },
+  {
+    "date": "2007-04-27",
+    "title": "Estonia Cyberattacks",
+    "description": "A wave of DDoS attacks, attributed to pro-Russian actors, cripples Estonian government, banking, and media sites, marking one of the first large-scale nation-targeted cyber assaults.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "link": "https://en.wikipedia.org/wiki/2007_cyberattacks_on_Estonia",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5CAA/production/_95722732_gettyimages-77397231.jpg"
+  },
+  {
+    "date": "2006-06",
+    "title": "Dual_EC_DRBG Standardized",
+    "description": "NIST adopts RNG later revealed to be backdoored; withdrawn after 2013 leaks.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "NIST publishes Dual_EC_DRBG; post-Snowden evidence suggests an NSA backdoor, prompting deprecation and withdrawal.",
+    "link": "https://en.wikipedia.org/wiki/Dual_EC_DRBG",
+    "image": "https://blog.cryptographyengineering.com/wp-content/uploads/2013/09/b9dec-dual_ec_diagram.png"
+  },
+  {
+    "date": "2007-11",
+    "title": "Hushmail Case",
+    "description": "‘Secure’ webmail caught providing cleartext under court order—trust erosion.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "enhanced_description": "Court records show Hushmail handed over readable emails to authorities, highlighting risks of server-side crypto.",
+    "link": "https://www.wired.com/2007/11/encrypted-e-mai/",
+    "image": "https://4429584.fs1.hubspotusercontent-na1.net/hub/4429584/hubfs/01_featured_Sean-success-story.png?noresize\\u0026width\\u003d460\\u0026name\\u003d01_featured_Sean-success-story.png"
+  },
+  {
+    "date": "2008",
+    "title": "Great Firewall of China Expands",
+    "description": "China strengthens its internet censorship infrastructure with deep packet inspection and real-name registration policies, extending state control over online discourse.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "link": "https://en.wikipedia.org/wiki/Great_Firewall",
+    "image": "https://www.salon.com/app/uploads/2019/02/great-firewall-china.jpg"
+  },
+  {
+    "date": "2008-08-18",
+    "title": "bitcoin.org Registered",
+    "description": "Domain registration that precedes the whitepaper.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Satoshi registers bitcoin.org months before releasing the whitepaper, laying groundwork for distribution.",
+    "link": "https://bitcoin.org/en/",
+    "image": "https://coincash.eu/images/en-on-this-day-aug-18-en.png"
+  },
+  {
+    "date": "2008-10-31",
+    "title": "Bitcoin Whitepaper",
+    "description": "Satoshi publishes ‘A Peer-to-Peer Electronic Cash System’.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "The Bitcoin whitepaper proposes decentralized, PoW-secured electronic cash with a public ledger and no central issuer.",
+    "link": "https://bitcoin.org/bitcoin.pdf",
+    "image": "https://bitcoinnews.ch/wp-content/uploads/2023/10/bitcoin-whitepaper.jpg"
+  },
+  {
+    "date": "2005-12",
+    "title": "bit gold",
+    "description": "Nick Szabo's design for scarce digital collectibles prefigures Bitcoin.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Nick Szabo sketches ‘bit gold’: chained PoW units recorded without a central authority—anticipating core Bitcoin concepts.",
+    "link": "https://nakamotoinstitute.org/bit-gold/",
+    "image": "https://volity.io/wp-content/uploads/2024/12/What-is-BitGold.webp"
+  },
+  {
+    "date": "2009",
+    "title": "Bitcoin Difficulty Adjustment Shows Resilience",
+    "description": "The automatic difficulty retargeting in Bitcoin’s proof-of-work algorithm successfully adapts to hash rate changes, proving the viability of a self-regulating monetary policy without central control.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "link": "https://en.bitcoin.it/wiki/Difficulty",
+    "image": "https://cryptoslate.com/wp-content/uploads/2024/04/HR-4.png"
+  },
+  {
+    "date": "2009-01-03",
+    "title": "Genesis Block",
+    "description": "Bitcoin chain begins; embedded UK bailout headline.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Block 0 embeds a Times headline about bank bailouts—both a timestamp and a critique of centralized finance.",
+    "link": "https://blockstream.info/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f",
+    "image": "https://www.blocktrainer.de/fileadmin/_processed_/5/1/csm_Was_ist_der_Genesis_Block_446f559eed.jpg"
+  },
+  {
+    "date": "2009-01-12",
+    "title": "First Bitcoin Transaction",
+    "description": "Satoshi sends BTC to Hal Finney.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Satoshi transfers 10 BTC to Hal Finney, proving live P2P value transfer without intermediaries.",
+    "link": "https://blockstream.info/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16",
+    "image": "https://academy.bit2me.com/wp-content/uploads/2020/03/primera-tx-bitcoin-nakamoto-finney.webp"
+  },
+  {
+    "date": "2010-05-22",
+    "title": "Bitcoin Pizza Day",
+    "description": "10,000 BTC used to buy two pizzas—first widely recognized BTC purchase.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "enhanced_description": "Laszlo Hanyecz buys two pizzas for 10,000 BTC, cementing Bitcoin’s real-world value narrative.",
+    "link": "https://thegivingblock.com/resources/bitcoin-pizza-day-nonprofits-guide/",
+    "image": "https://assets.qz.com/media/98aec6479bad523f5c89763f4acf0cf9.jpg"
+  },
+  {
+    "date": "2010-12",
+    "title": "WikiLeaks Financial Blockade",
+    "description": "Card networks and PayPal cut donations—Bitcoin becomes censorship-resistance tool.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "Payment providers block donations to WikiLeaks without court orders, demonstrating the ease of financial de-platforming.",
+    "link": "https://wikileaks.org/Banking-Blockade.html",
+    "image": "https://nonprofitquarterly.org/wp-content/uploads/2011/10/wiki.jpg"
+  },
+  {
+    "date": "2011",
+    "title": "Silk Road Launch",
+    "description": "BTC gains notoriety as censorship-resistant money.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "enhanced_description": "The Tor-hidden Silk Road marketplace adopts Bitcoin, showcasing censorship-resistant online commerce—then drawing intense law-enforcement scrutiny.",
+    "link": "https://en.wikipedia.org/wiki/Silk_Road_(marketplace)",
+    "image": "https://imageio.forbes.com/b-i-forbesimg/andygreenberg/files/2014/01/Screen-Shot-2013-11-06-at-10.35.48-AM.png?height\\u003d400\\u0026width\\u003d711\\u0026fit\\u003dbounds"
+  },
+  {
+    "date": "2011",
+    "title": "TLS Everywhere Push Grows",
+    "description": "Broader adoption of HTTPS begins accelerating.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "After Firesheep and broader awareness, sites migrate to HTTPS by default, hardening web privacy at scale.",
+    "link": "https://transparencyreport.google.com/https/overview",
+    "image": "https://www.appviewx.com/wp-content/uploads/2022/03/Preparing-for-a-TLS-Upgrade-A-Migration-Plan.png"
+  },
+  {
+    "date": "2011",
+    "title": "Occupy Movement & Alternative Finance",
+    "description": "The Occupy Wall Street movement sparks grassroots interest in alternative economic systems, including Bitcoin and local currencies, as tools for protest and autonomy.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "link": "https://en.wikipedia.org/wiki/Occupy_Wall_Street",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Combination_of_October_2011_global_protests.jpg/960px-Combination_of_October_2011_global_protests.jpg"
+  },
+  {
+    "date": "2011-04-18",
+    "title": "Namecoin Proposed",
+    "description": "The Namecoin project is introduced as a blockchain-based decentralized naming and identity system, aiming to resist DNS censorship and hijacking.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "link": "https://en.wikipedia.org/wiki/Namecoin",
+    "image": "https://static.news.bitcoin.com/wp-content/uploads/2025/04/nnnnn.png"
+  },
+  {
+    "date": "2012",
+    "title": "FATF Tightens AML",
+    "description": "Global standards setters push stronger KYC/AML, foreshadowing VASP ‘Travel Rule’.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "FATF expands recommendations on customer due diligence and wire-transfer data, prefiguring crypto Travel Rule obligations.",
+    "link": "https://www.fatf-gafi.org/en/publications/Financialinclusionandnpoissues/guidance-financial-inclusion-aml-tf-measures.html",
+    "image": "https://cdn.prod.website-files.com/683835185101a12455800f8c/6847b70b54ed9661f2563a58_Copy%2520of%2520Know%2520Your%2520Country-Malaysia.webp"
+  },
+  {
+    "date": "2012",
+    "title": "SOPA/PIPA Defeated",
+    "description": "Mass online protests, including website blackouts, successfully block the US SOPA and PIPA bills, which threatened internet freedom under the guise of anti-piracy enforcement.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "link": "https://en.wikipedia.org/wiki/Stop_Online_Piracy_Act",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Google_Doodle_Censored_2.png"
+  },
+  {
+    "date": "2012-10",
+    "title": "CryptoNote Whitepaper",
+    "description": "Foundation for ring-signature privacy coins.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "CryptoNote introduces ring signatures and stealth addresses, enabling plausible-deniability spenders and unlinkable outputs.",
+    "link": "https://academy.bit2me.com/wp-content/uploads/2021/05/MONERO-WHITEPAPER.pdf",
+    "image": "https://www.allcryptowhitepapers.com/wp-content/uploads/2022/10/cryptonote.png"
+  },
+  {
+    "date": "2013",
+    "title": "Tempora (GCHQ)",
+    "description": "Edward Snowden’s disclosures reveal GCHQ’s Tempora program, which taps undersea fiber cables to collect vast amounts of internet traffic for mass surveillance.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "link": "https://en.wikipedia.org/wiki/Tempora",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/GCHQ-aerial.jpg/1200px-GCHQ-aerial.jpg"
+  },
+  {
+    "date": "2013",
+    "title": "Boundless Informant",
+    "description": "An NSA data visualization tool, exposed by Snowden, tracks and maps global surveillance operations, quantifying the scope of intercepted communications.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "link": "https://en.wikipedia.org/wiki/Boundless_Informant",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Boundless_Informant_data_collection_-_DNI.jpg"
+  },
+  {
+    "date": "2013",
+    "title": "Bitcoin Black Friday",
+    "description": "The first large-scale merchant adoption event for Bitcoin, where hundreds of online retailers accept BTC payments, showcasing its censorship-resistant payment potential.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "link": "https://bitcoinblackfriday.org/",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2367627285/display_1500/stock-photo-bitcoin-and-black-friday-text-on-a-dark-background-2367627285.jpg"
+  },
+  {
+    "date": "2013-06-05",
+    "title": "Snowden Disclosures Begin",
+    "description": "PRISM, XKeyscore, Upstream collection—mass surveillance confirmed.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "enhanced_description": "Edward Snowden reveals secret programs tapping providers and backbones, confirming global, dragnet surveillance by NSA and partners.",
+    "link": "https://www.theguardian.com/world/2013/jun/06/us-tech-giants-nsa-data",
+    "image": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15787471/shutterstock_160092779_edited.0.1509426921.jpg?quality\\u003d90\\u0026strip\\u003dall\\u0026crop\\u003d0%2C5.6105610561056%2C100%2C88.778877887789\\u0026w\\u003d2400"
+  },
+  {
+    "date": "2013-08-08",
+    "title": "Lavabit Shutters",
+    "description": "Encrypted email provider shuts down rather than betray keys; gag orders challenged.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "enhanced_description": "Lavabit suspends operations instead of turning over its SSL keys, highlighting compelled decryption risks for centralized services.",
+    "link": "https://en.wikipedia.org/wiki/Lavabit",
+    "image": "https://images.techhive.com/images/article/2013/08/lavabit-100049551-orig.png"
+  },
+  {
+    "date": "2013-09-05",
+    "title": "BULLRUN & Encryption Undermining",
+    "description": "NSA program to defeat crypto and insert weaknesses unveiled.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "Leaks describe BULLRUN: efforts to subvert standards, influence vendors, and exploit backdoors to defeat encryption at scale.",
+    "link": "https://www.theguardian.com/world/2013/sep/05/nsa-gchq-encryption-codes-security",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Classification_guide_for_Project_BULLRUN.pdf/page1-240px-Classification_guide_for_Project_BULLRUN.pdf.jpg"
+  },
+  {
+    "date": "2014",
+    "title": "Apple Enables Default iOS Device Encryption",
+    "description": "Default strong device crypto triggers law enforcement outcry.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "enhanced_description": "Apple ships iOS with default device encryption that even Apple can’t unlock, provoking debates over ‘going dark.’",
+    "link": "https://jolt.law.harvard.edu/digest/apple-provides-default-encryption-that-protects-data-stored-on-device",
+    "image": "https://www.apple.com/newsroom/images/values/privacy/Apple-advanced-security-Advanced-Data-Protection_inline.jpg.slideshow-xlarge.jpg"
+  },
+  {
+    "date": "2014",
+    "title": "Heartbleed Bug",
+    "description": "A critical OpenSSL vulnerability allows attackers to read server memory, exposing private keys and passwords, prompting major overhauls in open-source security funding.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "link": "https://en.wikipedia.org/wiki/Heartbleed",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20220726112850/Heartbleedbug.jpg"
+  },
+  {
+    "date": "2014-02-28",
+    "title": "Mt. Gox Collapse",
+    "description": "Losses and mismanagement topple the largest BTC exchange of the time.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "enhanced_description": "Mt. Gox halts withdrawals and files for bankruptcy after massive losses, reinforcing ‘not your keys, not your coins.’",
+    "link": "https://en.wikipedia.org/wiki/Mt._Gox",
+    "image": "https://www.chainalysis.com/wp-content/uploads/2022/12/chart-6-gox-effect-1024x693.png"
+  },
+  {
+    "date": "2014-04-18",
+    "title": "Monero Announced",
+    "description": "A privacy coin implementing CryptoNote (ring signatures/stealth addresses).",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Monero applies CryptoNote in a live network to deliver default-private transactions with ring signatures and stealth addressing.",
+    "link": "https://www.getmonero.org/resources/research-lab/",
+    "image": "https://99bitcoins.com/wp-content/uploads/2024/05/Monero.jpg"
+  },
+  {
+    "date": "2014-05",
+    "title": "Dark Wallet Alpha",
+    "description": "An experimental Bitcoin wallet by Amir Taaki and Cody Wilson focused on privacy through stealth addresses and CoinJoin, challenging financial surveillance norms.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "link": "https://en.wikipedia.org/wiki/Dark_Wallet",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2024/11/dark-wallet-alpha-released.png"
+  },
+  {
+    "date": "2014-07-29",
+    "title": "Signal (TextSecure/RedPhone)",
+    "description": "Modern, open E2EE messaging consolidates into Signal app.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Open Whisper Systems unifies TextSecure and RedPhone into Signal, delivering open-source E2EE messaging and calls.",
+    "link": "https://signal.org/",
+    "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/1/6/1/9/5/1/5/signal-android2-aeae1f0fd278fbe4.png?force_format\\u003davif%2Cwebp%2Cjpeg\\u0026org_if_sml\\u003d1\\u0026q\\u003d70\\u0026width\\u003d1019"
+  },
+  {
+    "date": "2014-08",
+    "title": "Blockchain.info Mixing Removed",
+    "description": "Blockchain.info removes its Bitcoin mixing feature, signaling a broader industry retreat from built-in privacy tools due to regulatory pressure.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "link": "https://en.wikipedia.org/wiki/Cryptocurrency_mixer",
+    "image": "https://pub.mdpi-res.com/fintech/fintech-04-00007/article_deploy/html/images/fintech-04-00007-g001.png?1738748593"
+  },
+  {
+    "date": "2015",
+    "title": "Let’s Encrypt Launch",
+    "description": "Free, automated TLS certificates accelerate HTTPS-by-default.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Let’s Encrypt automates certificate issuance for free, removing cost and friction to deploy HTTPS everywhere.",
+    "link": "https://letsencrypt.org/",
+    "image": "https://scx2.b-cdn.net/gfx/news/hires/2014/letsencryptc.png"
+  },
+  {
+    "date": "2015-06-02",
+    "title": "USA FREEDOM Act",
+    "description": "Ends bulk telephony metadata collection under Section 215 (narrowly).",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "enhanced_description": "US Congress curtails some bulk collection revealed by Snowden, shifting telephony metadata storage away from the NSA.",
+    "link": "https://www.congress.gov/bill/114th-congress/house-bill/2048",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/1200px-Great_Seal_of_the_United_States_%28obverse%29.svg.png"
+  },
+  {
+    "date": "2015-07-30",
+    "title": "Ethereum Mainnet",
+    "description": "Smart contracts enable programmable money and censorship-resistant apps.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Ethereum launches a general-purpose smart-contract platform, enabling decentralized applications beyond simple transfers.",
+    "link": "https://blog.ethereum.org/2015/07/30/ethereum-launches",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Eth-diamond-rainbow.png"
+  },
+  {
+    "date": "2016",
+    "title": "WhatsApp End-to-End Encryption",
+    "description": "WhatsApp rolls out default end-to-end encryption for over one billion users, normalizing secure messaging on a massive scale.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "link": "https://en.wikipedia.org/wiki/WhatsApp#Security_and_privacy",
+    "image": "https://www.interakt.shop/wp-content/uploads/2024/12/End-to-End-Encryption-on-WhatsApp.png"
+  },
+  {
+    "date": "2016-02-16",
+    "title": "Apple vs. FBI (San Bernardino)",
+    "description": "US seeks to compel iPhone backdoor; Apple resists—public crypto debate reignites.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "enhanced_description": "The DOJ seeks to force Apple to sign malware to unlock an iPhone; Apple refuses, arguing compelled backdoors endanger all users.",
+    "link": "https://en.wikipedia.org/wiki/Apple%E2%80%93FBI_encryption_dispute",
+    "image": "https://blog.ipleaders.in/wp-content/uploads/2021/07/Apple-vs-FBI.jpg"
+  },
+  {
+    "date": "2016-06-17",
+    "title": "The DAO Hack",
+    "description": "High-profile Ethereum exploit leads to hard fork and Ethereum Classic split.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "enhanced_description": "An exploit drains The DAO; the Ethereum community hard-forks to reverse it, while Ethereum Classic continues on the original chain.",
+    "link": "https://www.gemini.com/en-SG/cryptopedia/the-dao-hack-makerdao",
+    "image": "https://i.ytimg.com/vi/_8aRzEQVHWg/maxresdefault.jpg"
+  },
+  {
+    "date": "2016-08-13",
+    "title": "Shadow Brokers Leak",
+    "description": "NSA exploit tools leak; later fuel WannaCry/NotPetya impacts.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "enhanced_description": "A trove of NSA-linked exploits (including EternalBlue) leaks, later weaponized in global ransomware outbreaks.",
+    "link": "https://www.rapid7.com/blog/post/2017/04/18/the-shadow-brokers-leaked-exploits-faq/",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/EF5C/production/_96267216_shadowb1.jpg"
+  },
+  {
+    "date": "2016-10-28",
+    "title": "Zcash Launch",
+    "description": "zk-SNARK privacy payments debut on a public chain.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Zcash introduces shielded transactions using zk-SNARKs, enabling private on-chain transfers with public verification.",
+    "link": "https://z.cash/blog/zcash-launch/",
+    "image": "https://electriccoin.co/wp-content/uploads/2024/03/zcash-sprout-launch.png"
+  },
+  {
+    "date": "2016-11-08",
+    "title": "India Demonetization",
+    "description": "Overnight removal of high-value banknotes—illustrates monetary control risk.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "India invalidates most cash in circulation overnight, disrupting livelihoods and showcasing state power over money.",
+    "link": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=38520",
+    "image": "https://sevenpillarsinstitute.org/wp-content/uploads/2019/02/Indias-Demonetization-1-1-2.png"
+  },
+  {
+    "date": "2016-11-29",
+    "title": "UK Investigatory Powers Act",
+    "description": "‘Snoopers’ Charter’ expands bulk collection and equipment interference powers.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "The IPA codifies bulk data retention and hacking powers, with provisions to compel assistance in bypassing security features.",
+    "link": "https://www.legislation.gov.uk/ukpga/2016/25/contents/enacted",
+    "image": "https://decoded.legal/blog/content/images/20210908203652-IPA.png"
+  },
+  {
+    "date": "2017",
+    "title": "Net Neutrality Repeal (US)",
+    "description": "The FCC repeals net neutrality rules, raising fears that ISPs could throttle or prioritize traffic, undermining internet openness.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "link": "https://en.wikipedia.org/wiki/Net_neutrality_in_the_United_States",
+    "image": "https://static01.nyt.com/images/2017/11/21/business/21NETNEUTRALITY/21NETNEUTRALITY-superJumbo.jpg"
+  },
+  {
+    "date": "2017",
+    "title": "Coinjoin & Privacy Wallets Mature",
+    "description": "Privacy-focused Bitcoin wallets like Wasabi, Samourai, and JoinMarket refine CoinJoin mixing protocols, making transaction analysis more difficult.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "link": "https://en.bitcoin.it/wiki/CoinJoin",
+    "image": "https://www.nadcab.com/wp-content/uploads/2025/06/bitcoin-coin-join.jpg"
+  },
+  {
+    "date": "2017-08-01",
+    "title": "Bitcoin Cash Fork",
+    "description": "Blocksize conflict yields BCH split, highlighting governance via code/forking.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "enhanced_description": "Disagreements on scaling produce a hard fork: Bitcoin (SegWit path) vs. Bitcoin Cash (larger blocks), demonstrating opt-in governance.",
+    "link": "https://en.wikipedia.org/wiki/Bitcoin_Cash",
+    "image": "https://www.rockitcoin.com/wp-content/uploads/The-Bitcoin-Cash-Hard-Fork-1024x536.png"
+  },
+  {
+    "date": "2017-08-24",
+    "title": "SegWit Activation (BTC)",
+    "description": "Protocol upgrade enabling scaling and Lightning groundwork.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Segregated Witness reduces malleability and increases effective capacity, enabling payment channels like Lightning.",
+    "link": "https://en.wikipedia.org/wiki/SegWit",
+    "image": "https://river.com/learn/images/articles/SegWit-Before-And-After.png"
+  },
+  {
+    "date": "2017-12",
+    "title": "CME Bitcoin Futures",
+    "description": "Institutional markets enter BTC price discovery.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "enhanced_description": "CME launches cash-settled Bitcoin futures, bringing BTC into mainstream derivatives markets.",
+    "link": "https://www.cmegroup.com/markets/cryptocurrencies/bitcoin/bitcoin.html",
+    "image": "https://www.cmegroup.com/content/dam/cmegroup/articles/images/2024/q3/bitcoin-friday-futures-your-new-bff-figure-01.png"
+  },
+  {
+    "date": "2018",
+    "title": "GDPR Enforced (EU)",
+    "description": "Data protection regime reshapes privacy compliance globally.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "enhanced_description": "The EU’s GDPR sets global benchmarks for consent, minimization, and breach disclosure, influencing worldwide data-protection norms.",
+    "link": "https://eur-lex.europa.eu/eli/reg/2016/679/oj",
+    "image": "https://www.cookieyes.com/wp-content/uploads/2025/04/GDPR-Enforcers.png"
+  },
+  {
+    "date": "2018",
+    "title": "Corporate Trackers Exposed at Scale",
+    "description": "Investigations and browser tools reveal the pervasive reach of corporate tracking and adtech surveillance, sparking mainstream privacy debates.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "link": "https://en.wikipedia.org/wiki/Surveillance_capitalism",
+    "image": "https://tracking.exposed/images/logo-with-payoff.png"
+  },
+  {
+    "date": "2018-08",
+    "title": "TLS 1.3 Finalized",
+    "description": "Faster, more private Internet transport security widely deployed.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "TLS 1.3 removes legacy ciphers and encrypts more of the handshake, improving speed and privacy across the web.",
+    "link": "https://www.rfc-editor.org/rfc/rfc8446",
+    "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/8ohjI9yrzu2eEm0U6iOu9/654853ffc8128cef9c4f17ac6dfb28cb/TLS-1.3.004.png"
+  },
+  {
+    "date": "2018-12-06",
+    "title": "Australia Assistance and Access Act",
+    "description": "Compelled assistance to access encrypted communications.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "Australia’s law empowers agencies to compel companies to assist in accessing encrypted data, raising systemic-risk concerns.",
+    "link": "https://www.legislation.gov.au/Details/C2018A00148",
+    "image": "https://cdn.prod.website-files.com/5efc3ccdb72aaa7480ec8179/65f49edeb76b17fc26a45b2b_1200x628%20-%20Long%20Form.png"
+  },
+  {
+    "date": "2019",
+    "title": "Lightning Network Growth",
+    "description": "Layer-2 BTC payments gain traction for private, fast transactions.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Lightning channels and nodes expand, enabling low-fee, rapid payments with improved on-chain privacy properties.",
+    "link": "https://lightning.network/lightning-network-paper.pdf",
+    "image": "https://images.ctfassets.net/4rilomtvvae4/67yH3uw1KKMSMHvslKfXWd/580d9dd14a09c0082f8ba038ab2c4bfb/Lightning_Network_BTC_Capacity.png"
+  },
+  {
+    "date": "2019",
+    "title": "FATF VASP ‘Travel Rule’",
+    "description": "Global mandate to attach sender/receiver data to crypto transfers by VASPs.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "FATF applies wire-transfer-style originator/beneficiary data rules to crypto service providers, expanding surveillance of transfers.",
+    "link": "https://www.fatf-gafi.org/en/publications/Fatfrecommendations/targeted-update-virtual-assets-vasps-2024.html",
+    "image": "https://www.sygna.io/wp-content/uploads/2020/08/FATF-implementation-issues-june-2021-1.png"
+  },
+  {
+    "date": "2019",
+    "title": "Hong Kong Protests & Cash/Bitcoin",
+    "description": "Account freezes push citizens toward privacy-preserving payments.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "enhanced_description": "Protesters avoid traceable payments; reports of account scrutiny increase interest in cash and censorship-resistant money.",
+    "link": "https://finance.yahoo.com/news/hong-kong-protests-accelerating-bitcoin-184623552.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAHjYYKPBWdwaO9ZEdGQ5OjSpSXh2CT6u6Rvd7V-j-sDDo0TcJqyj_UhP7kC9dUz75SD38WaqiXrqNYaVx3AkXUqp8VCCJOFiMmybQbSe5XzIbNBZ4C76k2Kirgfi-_FurJA5eF2aP5EHG3WpkX0nt8XBBQq_yWRxPpBdVDsbp2KY",
+    "image": "https://static.news.bitcoin.com/wp-content/uploads/2019/08/bCU9ylzg-hongkng.jpg"
+  },
+  {
+    "date": "2019",
+    "title": "Libra/Diem Announced",
+    "description": "Facebook announces Libra (later Diem), a corporate-led stablecoin project, triggering global regulatory backlash over monetary sovereignty.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "link": "https://en.wikipedia.org/wiki/Diem_(digital_currency)",
+    "image": "https://www.ledgerinsights.com/wp-content/uploads/2020/12/diem-810x476.jpg"
+  },
+  {
+    "date": "2019",
+    "title": "Cashless Store Bans (Some US Cities)",
+    "description": "Cities like Philadelphia and San Francisco ban cashless-only retail to protect unbanked consumers from financial exclusion.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "link": "https://en.wikipedia.org/wiki/Cashless_society#Criticism",
+    "image": "https://i.pcmag.com/imagery/articles/06ZEbv07hi6BOUXv6dUwFhk-2..v1669680757.jpg"
+  },
+  {
+    "date": "2019-08",
+    "title": "Tornado Cash Mainnet Launch",
+    "description": "Ethereum’s Tornado Cash privacy mixer grows rapidly in user adoption, sparking debates about the legality and regulation of privacy-preserving DeFi tools.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "link": "https://en.wikipedia.org/wiki/Tornado_Cash",
+    "image": "https://images.ctfassets.net/v0qht4wq59vi/3xENDnl1nVDNkhiawdwloX/c8fb6b4b5bfdf08b08ef8b00c659b477/Tornado_Cash_Price_.png"
+  },
+  {
+    "date": "2020-03",
+    "title": "COVID Passports & QR Regimes",
+    "description": "Pandemic-era digital health passes normalize large-scale credential scanning for access to public spaces, raising civil liberties concerns.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "link": "https://en.wikipedia.org/wiki/Vaccine_passport",
+    "image": "https://cdn.cloud.prio.org/images/2896d6085a954ed0a876ab9c9ebd8d3a.jpg"
+  },
+  {
+    "date": "2020-05",
+    "title": "Signal Adds PINs/Profiles",
+    "description": "Usability improvements grow mainstream E2EE adoption.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Signal adds encrypted profile data and PINs, reducing phone-number dependence and improving account recovery.",
+    "link": "https://signal.org/blog/signal-pins/",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10345009/telegramsignal.jpg?quality\\u003d90\\u0026strip\\u003dall\\u0026crop\\u003d0.31250000000001%2C0%2C99.375%2C100\\u0026w\\u003d2400"
+  },
+  {
+    "date": "2020-12-10",
+    "title": "Pornhub Payments Blacklisted",
+    "description": "Major credit card networks cut ties with Pornhub, demonstrating the power of private financial intermediaries to enforce content-based restrictions.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "link": "https://en.wikipedia.org/wiki/Pornhub#Payment_processing_issues",
+    "image": "https://img-cdn.tnwcdn.com/image?fit=1280%2C720&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F12%2FVisa-MasterCard-Pornhub.jpg&signature=ab0c70f007972e243b4f75825e0daa4b"
+  },
+  {
+    "date": "2020-12-18",
+    "title": "US ‘Unhosted Wallet’ Proposal",
+    "description": "FinCEN proposes reporting on self-custodial wallets—industry backlash.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "A proposed rule would require KYC/record-keeping around self-hosted wallet interactions; the crypto industry pushes back on privacy grounds.",
+    "link": "https://www.federalregister.gov/documents/2020/12/23/2020-28437/requirements-for-certain-transactions-involving-convertible-virtual-currency-or-digital-assets",
+    "image": "https://www.elliptic.co/hs-fs/hubfs/unnamed%20(4).png?width\\u003d958\\u0026name\\u003dunnamed%20(4).png"
+  },
+  {
+    "date": "2021",
+    "title": "Taproot Activation (BTC)",
+    "description": "Improves privacy and scripting flexibility with Schnorr/MAST.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Taproot upgrades Bitcoin with Schnorr signatures and MAST, improving efficiency and making complex spends look uniform on-chain.",
+    "link": "https://bitcoinops.org/en/topics/taproot/",
+    "image": "https://bitcoin-takeover.com/wp-content/uploads/2021/05/Bitcoin-Takeover-Taproot-Decentralization-Proof-Test-SIgnal.jpg"
+  },
+  {
+    "date": "2021",
+    "title": "El Salvador Legal Tender",
+    "description": "First nation-state adopts BTC—sovereign money experiment.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "enhanced_description": "El Salvador recognizes Bitcoin as legal tender, a first for a nation-state and a live test of BTC in retail payments.",
+    "link": "https://en.wikipedia.org/wiki/Bitcoin_in_El_Salvador",
+    "image": "https://www.migodi.com/wp-content/uploads/2021/09/E-pu9qAXMAUVsl3-scaled.jpg"
+  },
+  {
+    "date": "2021",
+    "title": "China Crypto Mining/Exchange Bans",
+    "description": "Comprehensive prohibitions push mining overseas.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "China expands prohibitions on crypto trading and mining, forcing hash power to migrate globally.",
+    "link": "https://www.reuters.com/world/china/china-central-bank-vows-crackdown-cryptocurrency-trading-2021-09-24/",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2021/05/370183998.jpg?resize\\u003d1920%2C1440"
+  },
+  {
+    "date": "2021",
+    "title": "WhatsApp E2EE Backups Option",
+    "description": "Mainstream chat extends protection to cloud backups.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "WhatsApp introduces end-to-end encrypted backups, closing a major privacy gap for billions of users.",
+    "link": "https://faq.whatsapp.com/490592613091019",
+    "image": "https://engineering.fb.com/wp-content/uploads/2021/09/WhatsApp_E2EE-Backups_64-digit-encryption.jpeg?w\\u003d1024"
+  },
+  {
+    "date": "2021",
+    "title": "Choke Point 2.0 Allegations",
+    "description": "Crypto advocates accuse US regulators of informally pressuring banks to cut services to lawful cryptocurrency firms, likening it to Operation Choke Point.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "link": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=409457",
+    "image": "https://media.wired.com/photos/67afc17c33607b1e9f7a7e66/1:1/w_2560%2Cc_limit/Chokepoint-2-Business-bitcoin-melting.jpg"
+  },
+  {
+    "date": "2021-07-18",
+    "title": "NSO Pegasus Scandal",
+    "description": "Investigations reveal that NSO Group’s Pegasus spyware was used to compromise the devices of journalists, activists, and political opponents worldwide.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "link": "https://en.wikipedia.org/wiki/Pegasus_(spyware)",
+    "image": "https://ichef.bbci.co.uk/news/480/cpsprodpb/991E/production/_119489193_peg.png.webp"
+  },
+  {
+    "date": "2022",
+    "title": "OFAC SDN List Applied to Code Addresses",
+    "description": "The US Treasury sanctions Ethereum smart contract addresses for the first time, marking a precedent in applying financial blacklists to code.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "link": "https://en.wikipedia.org/wiki/Tornado_Cash#Sanctions",
+    "image": "https://ofac.treasury.gov/system/files/126/database.jpg"
+  },
+  {
+    "date": "2022",
+    "title": "Eurozone AML Package Extends Travel Rule",
+    "description": "EU lawmakers agree to extend the FATF ‘travel rule’ to self-hosted wallet transfers above thresholds, expanding KYC/AML obligations.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "link": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-issues-travel-rule-guidance-tackle-money-laundering-and-terrorist-financing-transfers-funds-and",
+    "image": "https://eimf.eu/wp-content/uploads/2023/05/EIMF-BLOG-SEO-23.06.png"
+  },
+  {
+    "date": "2022-02",
+    "title": "Canada ‘Freedom Convoy’ Freezes",
+    "description": "Bank and platform freezes against protester accounts highlight financial chokepoints.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "Emergency powers enable financial account freezes tied to protests, raising concerns about politically motivated de-banking.",
+    "link": "https://edition.cnn.com/2022/02/20/americas/canada-trucker-protest-covid-sunday",
+    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWtCQhbLrZfs/v0/1200x800.jpg"
+  },
+  {
+    "date": "2022-04",
+    "title": "EU Digital Services Act (DSA)",
+    "description": "Platform obligations raise moderation power; privacy implications debated.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "The DSA imposes extensive content-governance duties on platforms, prompting debate over speech, transparency, and data access.",
+    "link": "https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package",
+    "image": "https://www.consentmanager.net/en/wp-content/uploads/2023/09/Digital-Services-Act-1024x535.png"
+  },
+  {
+    "date": "2022-08-08",
+    "title": "Tornado Cash Sanctioned (OFAC)",
+    "description": "Smart contract blacklisted; dev arrested in NL—code-as-speech debate rekindled.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "OFAC designates Tornado Cash contract addresses; enforcement actions against developers trigger precedent-setting legal debates.",
+    "link": "https://home.treasury.gov/news/press-releases/jy0916",
+    "image": "https://adforensics.com.ng/wp-content/uploads/2022/08/TCS-OFAC.png"
+  },
+  {
+    "date": "2022-09",
+    "title": "Merge (Ethereum PoS)",
+    "description": "Ethereum transitions to Proof-of-Stake, changing validator/censorship dynamics.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "enhanced_description": "Ethereum switches consensus from PoW to PoS; validator centralization and censorship resistance become core topics.",
+    "link": "https://cointelegraph.com/learn/articles/ethereum-upgrades-a-beginners-guide-to-eth-2-0",
+    "image": "https://www.sequoiacap.com/wp-content/uploads/sites/6/2022/09/eth-merge-diagram.png?fit\\u003d680,0"
+  },
+  {
+    "date": "2022-11-11",
+    "title": "FTX Collapse",
+    "description": "Centralized custodian failure underscores ‘not your keys’ lesson.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "enhanced_description": "FTX implodes amid alleged fraud and mismanagement, highlighting counterparty risk and reigniting self-custody adoption.",
+    "link": "https://en.wikipedia.org/wiki/Bankruptcy_of_FTX",
+    "image": "https://i.ytimg.com/vi/AbgRB3arCpY/maxresdefault.jpg"
+  },
+  {
+    "date": "2023",
+    "title": "Ordinals on Bitcoin",
+    "description": "Inscription craze tests Bitcoin’s blockspace norms and neutrality ethos.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "enhanced_description": "Inscriptions on satoshis spark debates over spam, blockspace markets, and protocol neutrality on Bitcoin.",
+    "link": "https://docs.ordinals.com/overview.html",
+    "image": "https://cdn.prod.website-files.com/5f75fe1dce99248be5a892db/65675d95164c888a56228a91_65525231c4e72816e759f96d_6525b1367a92d96d094123d8_ordinals-theory-diagram.png"
+  },
+  {
+    "date": "2023",
+    "title": "EU MiCA & AML Package",
+    "description": "Licensing and AML rules formalize crypto compliance expectations in EU.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "MiCA introduces EU-wide crypto licensing; accompanying AML rules expand surveillance of service providers and transfers.",
+    "link": "https://finance.ec.europa.eu/financial-crime/anti-money-laundering-and-countering-financing-terrorism-eu-level_en",
+    "image": "https://eimf.eu/wp-content/uploads/2023/05/EIMF-BLOG-23.06.png"
+  },
+  {
+    "date": "2023",
+    "title": "Privacy-Centric L2s and ZK Rollups",
+    "description": "Privacy-focused layer-2 networks and ZK rollups move from research to live deployments, offering scalable and private smart contract execution.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "link": "https://blockworks.co/news/privacy-ethereum-layer-2",
+    "image": "https://www.identity.com/wp-content/uploads/2025/01/ZKrollups.png"
+  },
+  {
+    "date": "2023",
+    "title": "Open-Source Supply Chain Security Emphasis",
+    "description": "Developers adopt reproducible builds, software bills of materials (SBOMs), and signed releases to harden critical cryptographic infrastructure.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "link": "https://en.wikipedia.org/wiki/Software_supply_chain",
+    "image": "https://www.reflectiz.com/wp-content/uploads/2024/11/Blog-page-images-2024-11-18T105051.920.jpg"
+  },
+  {
+    "date": "2023-03",
+    "title": "Privacy Pools Concept",
+    "description": "A compliance-aware privacy protocol proposal by Ameen Soleimani, designed to allow users to prove lawful sources of funds while maintaining transaction privacy. It emerged in response to Tornado Cash sanctions, aiming to preserve anonymity without enabling illicit use.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "link": "https://privacypools.com/",
+    "image": "https://leisurepoolsusa.com/wp-content/uploads/2023/02/020323-LanscapingPrivacy-Hero.jpg"
+  },
+  {
+    "date": "2023-05-16",
+    "title": "Ledger Recover Backlash",
+    "description": "Ledger’s seed phrase recovery service triggers a backlash from privacy advocates, reigniting debates over hardware wallet trust models.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "link": "https://coinmarketcap.com/academy/article/hardware-wallet-manufacturer-ledger-faces-backlash-over-new-feature",
+    "image": "https://collectiveshift.io/wp-content/uploads/2023/05/Screenshot-2023-05-17-at-6.39.33-pm.png"
+  },
+  {
+    "date": "2023-10",
+    "title": "BitVM Ideas Progress",
+    "description": "Research into Bitcoin’s BitVM architecture expands, exploring how to execute expressive smart contracts off-chain while settling disputes on-chain through fraud proofs, increasing Bitcoin’s computational possibilities without altering consensus rules.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "link": "https://bitvm.org/",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/02/image-14.jpg"
+  },
+  {
+    "date": "2023-10-26",
+    "title": "UK Online Safety Act",
+    "description": "Scanning mandates threaten practical E2EE; industry pushback continues.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "The Act empowers content-scanning mandates that critics say would break end-to-end encryption in practice.",
+    "link": "https://www.legislation.gov.uk/ukpga/2023/50/contents/enacted",
+    "image": "https://assets.publishing.service.gov.uk/media/67d445a0a4075fa7b9851dce/OSA_GovUK_1.png"
+  },
+  {
+    "date": "2024",
+    "title": "eIDAS 2.0 (EU) Adopted",
+    "description": "Concerns over QWACs and centralized trust models for the web.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "eIDAS 2.0 expands qualified web certificates (QWACs); researchers warn about centralization and browser security implications.",
+    "link": "https://digital-strategy.ec.europa.eu/en/policies/eidas-regulation",
+    "image": "https://media-gataca.s3.eu-west-1.amazonaws.com/wallet_timeline_76f076edc7.png"
+  },
+  {
+    "date": "2024",
+    "title": "DNS-over-HTTPS/QUIC Matures",
+    "description": "Default private DNS shipping widely in browsers and OSes.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Major vendors ship DoH/DoQ by default or easy opt-in, reducing passive DNS surveillance and ISP spoofing.",
+    "link": "https://datatracker.ietf.org/doc/rfc8484/",
+    "image": "https://cdn.adguard.com/public/Adguard/Blog/DoQ/TCP_en.png?1"
+  },
+  {
+    "date": "2024",
+    "title": "Passkeys & WebAuthn Expansion",
+    "description": "Phishing-resistant auth grows; privacy-preserving credentials improve UX.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "enhanced_description": "Platform passkeys and WebAuthn adoption accelerate, replacing passwords with origin-bound public-key credentials.",
+    "link": "https://www.w3.org/TR/webauthn-3/",
+    "image": "https://static.stytch.com/docs/_next/static/media/passkeys-diagram.f2bd9afb.png"
+  },
+  {
+    "date": "2024",
+    "title": "EU ‘Chat Control’ Push",
+    "description": "Proposal to scan all private messages for illegal content—heavy E2EE risks.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "enhanced_description": "Legislative proposals seek client-side scanning of private messages; cryptographers warn it’s incompatible with true E2EE.",
+    "link": "https://dig.watch/updates/eu-proposal-to-scan-private-messages-gains-support",
+    "image": "https://www.patrick-breyer.de/wp-content/uploads/2024/07/Sharepic-EU-MS-ChatControl.png"
+  },
+  {
+    "date": "2024",
+    "title": "ZK Hardware Acceleration",
+    "description": "The development of consumer-grade GPU and ASIC acceleration for zero-knowledge proof generation significantly reduces proving times, enabling practical private applications from ZK rollups to on-chain verifiable computations.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "link": "https://zkhack.dev/",
+    "image": "https://s3.ap-northeast-1.amazonaws.com/gimg.gateimg.com/learn/fc8a2cf78d4532170abbdf461298311bbcb6e9af.png"
+  },
+  {
+    "date": "2024",
+    "title": "FIDO Alliance Adoption Grows",
+    "description": "Passwordless authentication standards by the FIDO Alliance gain widespread adoption, reducing phishing risks and improving privacy.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "link": "https://fidoalliance.org/",
+    "image": "https://fidoalliance.org/wp-content/uploads/2021/03/Blog-Banners_EU-Digital-ID.png"
+  },
+  {
+    "date": "2024",
+    "title": "Stablecoin Laws Advance (US/EU drafts)",
+    "description": "US and EU move forward with legislative proposals for stablecoin issuers, imposing stricter KYC and reporting requirements on intermediaries.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "link": "https://www.swp-berlin.org/publikation/us-stablecoin-regulation-increases-pressure-on-europe",
+    "image": "https://coingeek.com/wp-content/uploads/2025/02/Stablecoin.webp"
+  },
+  {
+    "date": "2024",
+    "title": "Censorship Resistance in L2 Sequencers Debated",
+    "description": "Debates emerge over MEV extraction and transaction ordering in layer-2 sequencers, with research into decentralized sequencing to protect censorship resistance.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "link": "https://docs.arbitrum.io/how-arbitrum-works/sequencer",
+    "image": "https://substackcdn.com/image/fetch/$s_!ZJgs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F457ba50d-9dff-49dd-98a2-eee2fa707f7b_1600x845.png"
+  },
+  {
+    "date": "2024",
+    "title": "FROST/ROAST (Threshold Schnorr)",
+    "description": "Flexible and secure multi-party Schnorr signature schemes, FROST and ROAST, mature for use in collaborative custody and DAO governance.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "link": "https://datatracker.ietf.org/doc/draft-irtf-cfrg-frost/",
+    "image": "https://i.ytimg.com/vi/ReN0kMzDFro/maxresdefault.jpg"
+  },
+  {
+    "date": "2024",
+    "title": "zkTLS / zkEmail Experiments",
+    "description": "Zero-knowledge proofs are applied to TLS and email protocols, allowing cryptographic proof of communication contents or headers without revealing underlying data.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "link": "https://zkemail.xyz/",
+    "image": "https://s3.ap-northeast-1.amazonaws.com/gimg.gateimg.com/learn/8e778dda53b40f3b6eaf31b020da790ab0cacd86.png"
+  },
+  {
+    "date": "2025",
+    "title": "Account Abstraction UX",
+    "description": "Ethereum account abstraction (ERC-4337) achieves mainstream adoption, enabling smart wallets with features like social recovery, session keys, and batched transactions, removing friction for non-technical users without sacrificing decentralization.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "link": "https://eips.ethereum.org/EIPS/eip-4337",
+    "image": "https://blaize.tech/wp-content/uploads/2024/02/account-abstraction-ethereum.webp"
+  },
+  {
+    "date": "2025",
+    "title": "Privacy Coins Continue Under Pressure",
+    "description": "Global regulators intensify pressure on privacy coins, leading to exchange delistings, while development communities persist with protocol upgrades.",
+    "type": "overreach",
+    "color": "#ff4c4c",
+    "link": "https://blockworks.co/news/crypto-exchanges-delisting-privacy-coins#:~:text=Privacy%20coins%20Zcash%20and%20Monero%20face%20delisting%20by%20crypto%20exchanges,-OKX%20will%20be&text=OKX%2C%20a%20major%20cryptocurrency%20exchange,%2C%20and%20Dash%20(DASH)",
+    "image": "https://6983209.fs1.hubspotusercontent-na1.net/hubfs/6983209/Privacy%20Coins%20Will%20Make%20You%20Untraceable!%206%20Best%20Privacy%20Coins%20For%202025%20%281%29.jpg"
+  },
+  {
+    "date": "2025",
+    "title": "Stateless Clients & P2P Light Clients",
+    "description": "Ethereum and other chains advance stateless client research, allowing lightweight, privacy-preserving blockchain access without relying on trusted RPCs.",
+    "type": "cypherpunk",
+    "color": "#4cff4c",
+    "link": "https://ethresear.ch/t/towards-scalable-ethereum-staking-the-imperative-of-stateless-clients-with-compact-proof-sizes/19105",
+    "image": "https://miro.medium.com/v2/resize:fit:1400/1*AJNNGGBcSboZN-ka8CuWtw.png"
+  },
+  {
+    "date": "2025",
+    "title": "Civic Resistance with Self-Custody",
+    "description": "Protest movements increasingly adopt multisig cryptocurrency wallets for donations, protecting funds from state seizure and enabling transparent disbursement.",
+    "type": "wake-up",
+    "color": "#ffd24c",
+    "link": "https://atlas21.com/self-custody-the-ultimate-act-of-rebellion/",
+    "image": "https://sevenstories-prod.s3.amazonaws.com/images/000003/274/7S-Nader_Civic_Self_Respect_PB_mech_draft_B_-1-2c2b036822616142ee3180f9a16d6019.jpg"
+  }
+]

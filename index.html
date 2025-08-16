@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cypherpunk Timeline</title>
+  <link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=OCR+A&display=swap');
+
+    body {
+      margin: 0;
+      padding: 0;
+      background: #0a0a0a;
+      color: #e0e0e0;
+      font-family: 'OCR A', monospace;
+    }
+
+    .timeline-header {
+      background: #0a0a0a;
+      padding: 30px;
+      text-align: center;
+      border-bottom: 2px solid #2a2a2a;
+    }
+
+    .timeline-title {
+      font-size: 32px;
+      font-weight: 700;
+      margin-bottom: 15px;
+      color: #e0e0e0;
+    }
+
+    .timeline-legend {
+      display: flex;
+      justify-content: center;
+      gap: 40px;
+      font-size: 16px;
+      margin-top: 15px;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .legend-dot {
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+    }
+
+    #timeline-embed {
+      height: calc(100vh - 180px);
+      background: #0a0a0a;
+    }
+
+    /* Override Timeline.js styles for dark theme */
+    .tl-timeline {
+      background-color: #0a0a0a !important;
+      font-family: 'OCR A', monospace !important;
+    }
+    
+    /* Apply OCR A font only to text content, not icons */
+    .tl-timeline h1,
+    .tl-timeline h2,
+    .tl-timeline h3,
+    .tl-timeline h4,
+    .tl-timeline h5,
+    .tl-timeline h6,
+    .tl-timeline p,
+    .tl-timeline span:not([class*="icon"]),
+    .tl-timeline div:not([class*="icon"]),
+    .tl-timeline .tl-headline,
+    .tl-timeline .tl-text,
+    .tl-timeline .tl-caption,
+    .tl-timeline .tl-credit {
+      font-family: 'OCR A', monospace !important;
+    }
+
+    .tl-timeline .tl-timenav {
+      background-color: #1a1a1a !important;
+      border-top: 2px solid #2a2a2a !important;
+    }
+
+    .tl-timeline .tl-slide {
+      background-color: #0a0a0a !important;
+    }
+
+    .tl-timeline .tl-slide-content .tl-slide-content-container {
+      background-color: rgba(26, 26, 26, 0.95) !important;
+      border: 1px solid #3a3a3a !important;
+      border-radius: 12px;
+      padding: 25px;
+      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.6);
+    }
+
+    /* Default text colors for wake-up events */
+    .tl-timeline .tl-slide-content .tl-slide-content-container h2 {
+      color: #b8860b !important; /* Dark gold/yellow */
+      font-size: 24px !important;
+      margin-bottom: 15px !important;
+      font-family: 'OCR A', monospace !important;
+    }
+
+    /* Override h2 specifically for title slide - make it more specific */
+    .tl-timeline .tl-slide-titleslide .tl-slide-content .tl-slide-content-container h2,
+    .tl-timeline .tl-slide:first-child .tl-slide-content .tl-slide-content-container h2,
+    .tl-timeline .tl-slide .tl-slide-content .tl-slide-content-container .tl-headline h2,
+    .tl-timeline h2.tl-headline,
+    .tl-timeline .tl-headline,
+    .tl-timeline [class*="headline"] {
+      color: #e0e0e0 !important; /* Light color for title slide h2 */
+    }
+
+    /* Nuclear option - override ALL h2s initially, then let event-specific ones override */
+    .tl-timeline h2 {
+      color: #e0e0e0 !important;
+    }
+
+    /* Make images larger in Timeline.js */
+    .tl-timeline .tl-slide-content .tl-slide-content-container .tl-media {
+      width: 100% !important;
+      max-width: 500px !important;
+      height: auto !important;
+      margin-bottom: 20px !important;
+    }
+
+    .tl-timeline .tl-slide-content .tl-slide-content-container .tl-media img {
+      width: 100% !important;
+      height: auto !important;
+      max-height: 400px !important;
+      object-fit: cover !important;
+      border-radius: 8px !important;
+    }
+
+    .tl-timeline .tl-slide-content .tl-slide-content-container p {
+      color: #d4af37 !important; /* Lighter gold for body text */
+      font-size: 16px !important;
+      line-height: 1.6 !important;
+      font-family: 'OCR A', monospace !important;
+    }
+
+    .tl-timeline .tl-slide-content .tl-slide-content-container p a {
+      color: #87ceeb !important; /* Light blue for links */
+    }
+
+    /* Color-specific slide content based on event type */
+    .tl-timeline .tl-slide.cypherpunk .tl-slide-content .tl-slide-content-container h2 {
+      color: #228b22 !important; /* Dark green for cypherpunk titles */
+    }
+
+    .tl-timeline .tl-slide.cypherpunk .tl-slide-content .tl-slide-content-container p {
+      color: #32cd32 !important; /* Lighter green for cypherpunk body text */
+    }
+
+    .tl-timeline .tl-slide.overreach .tl-slide-content .tl-slide-content-container h2 {
+      color: #8b0000 !important; /* Dark red for overreach titles */
+    }
+
+    .tl-timeline .tl-slide.overreach .tl-slide-content .tl-slide-content-container p {
+      color: #dc143c !important; /* Lighter red for overreach body text */
+    }
+
+    .tl-timeline .tl-slide.wake-up .tl-slide-content .tl-slide-content-container h2 {
+      color: #b8860b !important; /* Dark gold/yellow for wake-up titles */
+    }
+
+    .tl-timeline .tl-slide.wake-up .tl-slide-content .tl-slide-content-container p {
+      color: #d4af37 !important; /* Lighter gold for wake-up body text */
+    }
+
+    /* Fix title slide colors */
+    .tl-timeline .tl-slide .tl-slide-content .tl-slide-content-container .tl-headline {
+      color: #e0e0e0 !important; /* Light color for main title */
+      font-family: 'OCR A', monospace !important;
+    }
+
+    .tl-timeline .tl-slide .tl-slide-content .tl-slide-content-container .tl-text {
+      color: #b0b0b0 !important; /* Slightly dimmer for subtitle */
+      font-family: 'OCR A', monospace !important;
+    }
+
+    /* Also target the title slide specifically if it has different classes */
+    .tl-timeline .tl-slide-titleslide .tl-slide-content .tl-slide-content-container h1,
+    .tl-timeline .tl-slide-titleslide .tl-slide-content .tl-slide-content-container h2,
+    .tl-timeline .tl-slide-titleslide .tl-slide-content .tl-slide-content-container .tl-headline {
+      color: #e0e0e0 !important;
+      font-family: 'OCR A', monospace !important;
+    }
+
+    .tl-timeline .tl-slide-titleslide .tl-slide-content .tl-slide-content-container p,
+    .tl-timeline .tl-slide-titleslide .tl-slide-content .tl-slide-content-container .tl-text {
+      color: #b0b0b0 !important;
+      font-family: 'OCR A', monospace !important;
+    }
+
+    .tl-timeline .tl-timenav-slider {
+      background-color: #2a2a2a !important;
+    }
+
+    .tl-timeline .tl-timenav-slider .tl-timenav-line {
+      background-color: #4a4a4a !important;
+    }
+
+    .tl-timeline .tl-timenav-slider .tl-timenav-interval-background {
+      background-color: #1a1a1a !important;
+    }
+
+    .tl-timeline .tl-timenav-slider .tl-timenav-tick {
+      border-left: 1px solid #4a4a4a !important;
+    }
+
+    .tl-timeline .tl-timenav-slider .tl-timenav-tick .tl-timenav-tick-text {
+      color: #e0e0e0 !important;
+      font-family: 'OCR A', monospace !important;
+    }
+
+    /* Color-coded markers */
+    .tl-timeline .tl-timenav-slider .tl-timenav-marker.cypherpunk .tl-timenav-marker-content-container {
+      background-color: #4cff4c !important;
+      border: 2px solid #4cff4c !important;
+    }
+
+    .tl-timeline .tl-timenav-slider .tl-timenav-marker.overreach .tl-timenav-marker-content-container {
+      background-color: #ff4c4c !important;
+      border: 2px solid #ff4c4c !important;
+    }
+
+    .tl-timeline .tl-timenav-slider .tl-timenav-marker.wake-up .tl-timenav-marker-content-container {
+      background-color: #ffd24c !important;
+      border: 2px solid #ffd24c !important;
+    }
+
+    .tl-timeline .tl-timenav-slider .tl-timenav-marker .tl-timenav-marker-content-container .tl-timenav-marker-content .tl-timenav-marker-text h2 {
+      color: #1a1a1a !important;
+      font-size: 12px !important;
+      font-weight: 700 !important;
+      font-family: 'OCR A', monospace !important;
+    }
+    
+
+    /* Loading message */
+    .loading {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 400px;
+      font-size: 18px;
+      color: #e0e0e0;
+    }
+  </style>
+</head>
+<body>
+  <div class="timeline-header">
+    <div class="timeline-title">Cypherpunk Timeline</div>
+        <span>tools, research, wins</span>
+    </div>
+  </div>
+
+  <div id="timeline-embed">
+    <div class="loading">Loading timeline...</div>
+  </div>
+
+  <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+  <script>
+    async function loadAndRenderTimeline() {
+      try {
+        // Load the enhanced timeline data
+        const response = await fetch('timeline_enhanced.json');
+        const events = await response.json();
+        
+        // Convert to Timeline.js format
+        const timelineData = {
+          title: {
+            text: {
+              headline: "A history of the cypherpunk movement",
+              text: "A chronological guide to demonstrate the need for cypherpunk values"
+            }
+          },
+          events: events.map(event => {
+            // Use enhanced description if available, otherwise use original
+            const description = event.enhanced_description || event.description;
+            
+            // Create media object for image if available
+            const media = event.image ? {
+              url: event.image,
+              alt: event.title,
+              title: event.title
+            } : null;
+            
+            return {
+              start_date: {
+                year: parseInt(event.date.substring(0, 4)),
+                month: event.date.length > 4 ? parseInt(event.date.substring(5, 7)) : 1,
+                day: event.date.length > 7 ? parseInt(event.date.substring(8, 10)) : 1
+              },
+              text: {
+                headline: event.title,
+                text: `
+                  <div style="margin-bottom: 15px;">
+                    ${description}
+                  </div>
+                  ${event.link ? `<p><a href="${event.link}" target="_blank" style="color: #87ceeb; text-decoration: none; font-weight: 600; font-size: 14px;">Learn more →</a></p>` : ''}
+                `
+              },
+              media: media,
+              group: event.type,
+              unique_id: event.title.replace(/\s+/g, '_').toLowerCase(),
+              classname: event.type
+            };
+          })
+        };
+
+        // Initialize Timeline.js
+        const timeline = new TL.Timeline('timeline-embed', timelineData, {
+          hash_bookmark: false,
+          debug: false,
+          is_embed: true,
+          start_at_slide: 0,
+          font: 'default',
+          lang: 'en',
+          timenav_height: 150,
+          timenav_height_percentage: 25,
+          timenav_mobile_height_percentage: 40,
+          timenav_height_min: 150,
+          marker_height_min: 30,
+          marker_width_min: 100,
+          marker_padding: 5,
+          start_at_end: false,
+          menubar_height: 0,
+          use_bc: false,
+          duration: 1000,
+          dragging: true,
+          trackResize: true,
+          slide_padding_lr: 100,
+          slide_default_fade: '0%'
+        });
+
+        console.log('Timeline loaded successfully with', events.length, 'events');
+
+      } catch (error) {
+        console.error('Error loading timeline:', error);
+        document.getElementById('timeline-embed').innerHTML = `
+          <div class="loading" style="color: #ff4c4c;">
+            Error loading timeline: ${error.message}
+          </div>
+        `;
+      }
+    }
+
+    // Load timeline when page is ready
+    document.addEventListener('DOMContentLoaded', loadAndRenderTimeline);
+  </script>
+</body>
+</html>
